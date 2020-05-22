@@ -1,0 +1,78 @@
+Results for layer input
+
+	Correlation for the cosine scores: 0.6588930978843413
+	Correlation for the correlation scores: 0.6509179239525643
+
+
+Results for layer 1
+
+	Correlation for the cosine scores: 0.6810836602711183
+	Correlation for the correlation scores: 0.6730140403380526
+
+
+Results for layer 2
+
+	Correlation for the cosine scores: 0.6229282225523134
+	Correlation for the correlation scores: 0.6123454818884264
+
+
+Results for layer 3
+
+	Correlation for the cosine scores: 0.5564612779773243
+	Correlation for the correlation scores: 0.5473813980111778
+
+
+Results for layer 4
+
+	Correlation for the cosine scores: 0.5261245240246282
+	Correlation for the correlation scores: 0.5199324921754014
+
+
+Results for layer 5
+
+	Correlation for the cosine scores: 0.4941198488804215
+	Correlation for the correlation scores: 0.5012020736729121
+
+
+Results for layer 6
+
+	Correlation for the cosine scores: 0.45677810873374225
+	Correlation for the correlation scores: 0.4631412175756253
+
+
+Results for layer 7
+
+	Correlation for the cosine scores: 0.4218444661043488
+	Correlation for the correlation scores: 0.4257018261646471
+
+
+Results for layer 8
+
+	Correlation for the cosine scores: 0.3707857901696294
+	Correlation for the correlation scores: 0.3653919334303148
+
+
+Results for layer 9
+
+	Correlation for the cosine scores: 0.3256580925820329
+	Correlation for the correlation scores: 0.31688978299857956
+
+
+Results for layer 10
+
+	Correlation for the cosine scores: 0.344381844029638
+	Correlation for the correlation scores: 0.3511086062539629
+
+
+Results for layer 11
+
+	Correlation for the cosine scores: 0.31688795334932024
+	Correlation for the correlation scores: 0.3318210844669735
+
+
+Results for layer 12
+
+	Correlation for the cosine scores: 0.272835797142205
+	Correlation for the correlation scores: 0.2896995091755642
+
+
