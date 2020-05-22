@@ -96,5 +96,5 @@ for dataset in datasets:
             print('\tCorrelation for the correlation scores: {}'.format(r_layer))
             o.write('\tCorrelation for the correlation scores: {}\n\n\n'.format(r_layer))
     
-    results_plots = mybloodyplots.MyBloodyPlots(output_folder='results', font_folder=current_font_folder, x_variables=[n for n in word_vectors.keys()], y_variables=[(cosine_plot[i], r_plot[i]) for i in range(len(r_plot))], x_axis='', y_axis='Layers', labels=['Cosine', 'Spearman correlation'], title='BERT word representation test with the {} dataset'.format(dataset_name.capitalize()), identifier=dataset_name, colors=[teal, golden], x_ticks=True, y_ticks=True, y_grid=True)
+    results_plots = mybloodyplots.MyBloodyPlots(output_folder='results', font_folder=current_font_folder, x_variables=[n for n in word_vectors.keys()], y_variables=[(cosine_plot[i], r_plot[i]) for i in range(len(r_plot))], x_axis='', y_axis='Layers', labels=['Cosine', 'Spearman correlation'], title='BERT word representation test with the {} dataset'.format(dataset_name.capitalize()), identifier=dataset_name, colors=[teal, golden], x_ticks=True, y_ticks=True, y_grid=True, text_coords=(0,-15))
     results_plots.plot_dat('two_lines')
